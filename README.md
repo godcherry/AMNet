@@ -3,7 +3,7 @@
 
 ## AMNet
 
-![AMNet](https://github.com/godcherry/AMNet/blob/AMNet.svg)
+![AMNet](https://github.com/godcherry/AMNet/blob/main/AMNet.svg)
 
 ## Model Usage
 
