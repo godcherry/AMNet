@@ -3,6 +3,8 @@
 
 ## AMNet
 
+This project implements the Adaptive Multi-frequency filtering graph neural network for graph anomaly detection(AMNet) proposed in [1].
+
 ![AMNet](https://github.com/godcherry/AMNet/blob/main/AMNet.gif)
 
 ## Model Usage
@@ -42,7 +44,7 @@ beta: Weight of marginal constraint loss
 ```
 @inproceedings{chai2022can,
   title = "{Can Abnormality be Detected by Graph Neural Networks?}", 
-  author = {{Chai}, Z. and {You}, S. and {Yang}, Y. and {Pu}, S. and {Xu}, J. and {Cai}, H and {Jiang}, W.}, 
+  author = {Ziwei Chai and Siqi You and Yang Yang and Shiliang Pu and Jiarong Xu and Haoyang Cai and Weihao Jiang, 
   booktitle={Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI)},
   year = 2022, 
 } 
